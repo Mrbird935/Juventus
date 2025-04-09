@@ -1,0 +1,56 @@
+body{
+    background-color: gray;
+}
+
+h3{
+    font-size: 30px;
+    color: burlywood;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:0px;
+    margin-left: 150px;
+    border: 2px solid black;
+    margin-right: 215px;
+    
+    
+}
+
+
+#Yildiz{
+    margin-left: 450px;
+    width: 450px;
+    height: 250px;
+    border-radius: 50px;
+    border: solid black;
+}
+li{
+    font-size: 22px;
+    color: darkgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid darkgrey;
+    margin-right: 1070px;
+}
+
+h1{
+    font-size: 30px;
+    color: darkorange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 24px;
+    color: firebrick;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Turquia{
+    width: 400px;
+    height: 250px;
+    border-radius: 150px;
+    border: solid black;
+}
+
+#Final{
+    font-size: 24px;
+    color: black;
+    font-family: fantasy;
+}
